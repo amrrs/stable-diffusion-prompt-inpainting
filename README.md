@@ -22,6 +22,11 @@ There are certain parameters that you can tune
 
 **Step-by-Step Tutorial - https://www.youtube.com/watch?v=bv1Wur3DvZ0**
 
+
+### Inital Req:
+
+* If you are using Stable Diffusion from Hugging Face 🤗 for the first time, You need to [accept ToS on the Model Page](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original) and Get your [Token from your user profile](https://huggingface.co/settings/tokens)
+
 ### Requires:
 
 * GPU (runs fine on Google Colab Tesla T4)
