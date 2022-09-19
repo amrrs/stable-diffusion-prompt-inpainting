@@ -5,14 +5,28 @@ This project helps you do prompt-based inpainting without having to paint the ma
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+It's currently a notebook based project but we can convert it into a Gradio Web UI.
+
+It takes 3 mandatory inputs.
+
+1. Input Image URL
+2. Prompt of the part in the input image that you want to replace
+3. Output Prompt 
+
+There are certain parameters that you can tune
+1. Mask Precision
+2. Stable Diffusion Generation Strength 
 
 
-
-Requires:
+### Requires:
 
 * GPU (runs fine on Google Colab Tesla T4)
 
-Credit:
+# Credit:
 
 * Clipseg Model Weights - https://github.com/timojl/clipseg
 * Stable Diffusion In-painting - https://www.youtube.com/watch?v=N913hReVxMM
+
+# Sample Work:
+
+![patttinson](https://user-images.githubusercontent.com/5347322/191103848-8f8925c7-24ff-4c72-bcc8-9da9432d13e9.gif)
