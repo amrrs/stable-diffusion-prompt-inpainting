@@ -5,6 +5,8 @@ This project helps you do prompt-based inpainting without having to paint the ma
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
+
 It's currently a notebook based project but we can convert it into a Gradio Web UI.
 
 It takes 3 mandatory inputs.
@@ -17,6 +19,8 @@ There are certain parameters that you can tune
 1. Mask Precision
 2. Stable Diffusion Generation Strength 
 
+
+**Step-by-Step Tutorial - https://www.youtube.com/watch?v=bv1Wur3DvZ0**
 
 ### Requires:
 
